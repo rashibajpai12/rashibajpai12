@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rashi Bajpai 👋
 
-<!--
-**rashibajpai12/rashibajpai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BSc CS Student
 
-Here are some ideas to get you started:
+🔬 Research Interests
+- AI Agents
+- Long-Term Agent Memory
+- Multimodal AI
+- Machine Translation
+- Sustainable AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Experience
+- IEEE Student Branch Secretary
+- IIST Research Intern
+- Smart India Hackathon Hardware Finalist
+- Founder, NayiKiran_NayiUmang
+
+## Current Projects
+
+### 🧠 AMCM-Agent
+Adaptive Memory Consolidation for Long-Term AI Agents
+
+### 🌍 MarianMT Translation Framework
+Transformer-Based Neural Machine Translation Using MarianMT
+
+## Connect
+LinkedIn: www.linkedin.com/in/rashi-bajpai-58a024272
